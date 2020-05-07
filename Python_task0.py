@@ -62,8 +62,6 @@ print('Maximum score:', maxElement)
 print('Minimum score:', minElement)
 
 
-# In[ ]:
-
 
 
 
